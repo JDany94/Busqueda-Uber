@@ -1,0 +1,17 @@
+release/aestrella.o
+release/cargparm.o
+release/casilla.o
+release/destino.o
+release/entorno.o
+release/info.o
+release/ingrparm.o
+release/main.o
+release/mainwindow.o
+release/obstaculo.o
+release/origen.o
+release/vecino.o
+release/qrc_icons.o
+release/moc_cargparm.o
+release/moc_info.o
+release/moc_ingrparm.o
+release/moc_mainwindow.o

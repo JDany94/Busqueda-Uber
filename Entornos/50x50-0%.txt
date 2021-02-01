@@ -1,0 +1,11 @@
+Dimensiones
+50
+50
+Origen
+1
+1
+Destino
+50
+50
+Obstaculos
+0
